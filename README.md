@@ -1,4 +1,4 @@
-实现效果：用户在Search.html页面选择关键字，自动创建并返回report.html报告，报告可右键另存到本地。
+实现效果：用户在Search.html页面选择关键字，自动创建并返回report.html报告。
 
 实现说明：
 	  1、使用技术：python3（数据清洗）、Django2.0.7、HTML、CSS(bootstrap)、JavaScript。
